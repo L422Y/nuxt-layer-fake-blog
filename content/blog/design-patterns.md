@@ -2,6 +2,7 @@
 title: "Design Patterns"
 date: "2022-12-18"
 status: published
+author: test-mctesterson
 description: "An example of why and how we should opt for dependency injection instead of monolithic classes, and what a
 few of the benefits are"
 categories: [ typescript, design-patterns ]
