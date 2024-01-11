@@ -2,6 +2,7 @@
 title: "Awesome Post"
 date: "2024-01-01"
 status: published
+author: larry-williamson
 description: "This is an awesome post, it is very awesome, so awesome."
 categories: ["awesome", "awesome-people", "awesome-things"]
 ---
