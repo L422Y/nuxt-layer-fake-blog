@@ -29,7 +29,7 @@ We are going to talk about a lot of awesome things in this post.
 
 ## Awesome Component
 
-:awesome-component
+::awesome-component
 
 
 When you are awesome, you are awesome. When you are awesome, we are awesome.
